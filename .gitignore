@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 # aws cdk stuff
-.cdk.out/
+cdk.out/
 cdk.context.json
